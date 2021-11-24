@@ -1,0 +1,10 @@
+﻿{
+    "profiles": {
+        "WriteableBitmap (Package)": {
+            "commandName": "MsixPackage"
+        },
+        "WriteableBitmap (Unpackaged)": {
+            "commandName": "Project"
+        }
+    }
+}
